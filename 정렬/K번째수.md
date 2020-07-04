@@ -99,6 +99,12 @@ class Solution {
     }
 }
 ```
+- `Arrays.copyOfRange()`
+    - Arrays.copyOf(원본배열, 복사할 길이);
+    - Arrays.copyOfRange(원본 배열, 시작인덱스, 끝인덱스())
+
+- `Arrays.sort()`
+    - Arays.sort(정렬할 배열) : 오름차순으로 정렬됨
 
 ### 퀵정렬 구현
 
